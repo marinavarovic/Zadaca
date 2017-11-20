@@ -1,1 +1,5 @@
-
+Normalizacijske forme predstavljaju 6 formi koje koristimo pri stvaranju baze podataka radi minimalno udvostručavanja podataka.
+U praksi se najčešće koriste 1NF,2NF i 3NF.
+Druga i treća normalna forma zahtijevaju da ona predhodna bude zadovoljena.
+Prva forma je glavna forma i u njoj jedna vrijednos ne smije bit skup podataka(npr. i ime i prezime).
+Svaka vrijednost je jedinstvena i svi redovi imaju jednak broj polja.
